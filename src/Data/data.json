@@ -1,0 +1,112 @@
+[
+    {
+        "question" : "A man is carrying the heavy luggage from one platform to the other of a Railway station but still according to the logics of science his work done is said to be zero. Can you opt out the ?",
+        "options" : [
+            {
+                "option": "The force is acting along the direction of displacement of luggage",
+                "key": "1"
+            },
+            {
+                "option": "The force is acting perpendicular to the direction of displacement of luggage",
+                "key": "2"
+            },
+            {
+                "option": "The force is acting opposite to the direction of displacement of luggage",
+                "key": "3"
+            },
+            {
+                "option": "None of these",
+                "key": "4"
+            }
+        ],
+        "answer": "2"
+    },
+    {
+        "question" : "When a body like earth is moving in a circular path the work done in that case is zero because ?",
+        "options" : [
+            {
+                "option": "Centripetal force acts in the direction of motion of the body",
+                "key": "1"
+            },
+            {
+                "option": "Centripetal force acts along the radius of circular path",
+                "key": "2"
+            },
+            {
+                "option": "Gravitational force acts along the radius of circular path",
+                "key": "3"
+            },
+            {
+                "option": "Centrifugal force acts perpendicular to the radius of circular path",
+                "key": "4"
+            }
+        ],
+        "answer": "1"
+    },
+    {
+        "question" : "A car is accelerated on a leveled road and attains a velocity 4 times of its initial velocity. In this process, the kinetic energy of the car ?",
+        "options" : [
+            {
+                "option": "Becomes twice to that of the initial",
+                "key": "1"
+            },
+            {
+                "option": "Becomes four times to that of the initial",
+                "key": "2"
+            },
+            {
+                "option": "Remains the same",
+                "key": "3"
+            },
+            {
+                "option": "Becomes 16 times to that of the initial",
+                "key": "4"
+            }
+        ],
+        "answer": "2"
+    },
+    {
+        "question" : "The momentum of a bullet of mass 20 g fired from a gun is 10 kg m/s. The kinetic energy of this bullet in kJ will be ?",
+        "options" : [
+            {
+                "option": "25",
+                "key": "1"
+            },
+            {
+                "option": "2.5",
+                "key": "2"
+            },
+            {
+                "option": "0.25",
+                "key": "3"
+            },
+            {
+                "option": "5",
+                "key": "4"
+            }
+        ],
+        "answer": "1"
+    },
+    {
+        "question" : "Which one of the following is not the unit of energy? ?",
+        "options" : [
+            {
+                "option": "Kilowatt",
+                "key": "1"
+            },
+            {
+                "option": "Kilowatt hour",
+                "key": "2"
+            },
+            {
+                "option": "Joule",
+                "key": "3"
+            },
+            {
+                "option": "Newton meter",
+                "key": "4"
+            }
+        ],
+        "answer": "1"
+    }
+]
