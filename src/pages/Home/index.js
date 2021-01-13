@@ -52,6 +52,7 @@ export default function Home() {
                 ))
             }
             <Button disabled={!(data.length === answers.length)} onClick={submit}>Submit</Button>
+            <a href="https://stag-8x8-ecom.cloudthis.com/express/signup/X-SB">GO To</a>
         </>
     )
 }
